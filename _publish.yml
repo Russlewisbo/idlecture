@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 080d53e8-0666-4535-84f4-91a631cedc84
+      url: https://idlectures.com

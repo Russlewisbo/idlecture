@@ -1,11 +1,19 @@
 ---
-title: "idlecture"
+title: "Scuola di Specializzazione <br>Malattie Infettive e Tropicali "
 ---
 
-This is a Quarto website.
+::::: columns
+::: {.column width="50%"}
+![](images/dmm.jpg){fig-align="center" width="150"}
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.column width="50%"}
+![](images/unipd.png){fig-align="center" width="145"}
+:::
+:::::
 
-```{r}
-1 + 1
-```
+Welcome to the website for lecture materials for Prof Russell Lewis.
+
+<br>
+
+Links to the individual presentations are found in the menu bar above.
