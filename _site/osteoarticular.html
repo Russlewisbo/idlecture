@@ -142,14 +142,14 @@ ul.task-list li input[type="checkbox"] {
 <iframe src="https://drive.google.com/file/d/19YXvnctqIwKcTjuHaeWQ4Ch3qzF3_N3y/preview" width="1000" height="800" allow="autoplay">
 </iframe>
 <hr>
-<p><a href="osteoarticular.txt">Unedited AI generated transcript of lecture</a></p>
+<p><a href="osteo.txt">Unedited AI generated transcript of lecture</a></p>
 <hr>
 <p><strong>Further reading</strong></p>
 <p><a href="OVIVI_trial.pdf">OVIVA trial</a> <br> <a href="short_long_prosth.pdf">Short vs.&nbsp;long for prosthetic infections</a> <br> <a href="Valour.pdf">Management of MDR gram positive joint infections</a> <br> <a href="suppressive.pdf">Suppressive antibiotic therapy</a> <br> <a href="diabeticfoot.pdf">Managment of diabetic foot infections</a> <br> <a href="osteohistory.pdf">History of abx treatment of osteo</a> <br></p>
 <p><br></p>
 <hr>
 <p><strong>Podcasts on topics related to osteoarticuliar infections</strong></p>
-<p>The Socieity of Infectious Diseases Pharmacists (SIDP) has excellent podcasts on topics related to managing bone and joint infections with many physician experts: <br></p>
+<p>The Society of Infectious Diseases Pharmacists (SIDP) has excellent podcasts on topics related to managing bone and joint infections with many physician experts: <br></p>
 <p><a href="https://breakpoints-sidp.org/110-a-bone-to-pick-biofilm-busters-for-prosthetic-joint-infections/">Antibiofilm approaches</a></p>
 <p><a href="https://breakpoints-sidp.org/dosing-consult-rifampin-part-2/">Rifampin dosing in osteo</a></p>
 <p><a href="https://breakpoints-sidp.org/67-nixing-the-nidus-managing-retained-sources-in-prosthetic-joint-infections/">Prosthetic joint infections</a></p>
@@ -230,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/idlectures\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

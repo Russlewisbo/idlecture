@@ -12,19 +12,13 @@ Video of lecture can be played below. Click on the "CC" button in the the video 
 
 ------------------------------------------------------------------------
 
-[Unedited AI generated transcript of lecture](osteoarticular.txt)
+[Unedited AI generated transcript of lecture](osteo.txt)
 
 ------------------------------------------------------------------------
 
 **Further reading**
 
-[OVIVA trial](OVIVI_trial.pdf) <br>
-[Short vs. long for prosthetic infections](short_long_prosth.pdf) <br>
-[Management of MDR gram positive joint infections](Valour.pdf) <br>
-[Suppressive antibiotic therapy](suppressive.pdf) <br>
-[Managment of diabetic foot infections](diabeticfoot.pdf) <br>
-[History of abx treatment of osteo](osteohistory.pdf) <br>
-
+[OVIVA trial](OVIVI_trial.pdf) <br> [Short vs. long for prosthetic infections](short_long_prosth.pdf) <br> [Management of MDR gram positive joint infections](Valour.pdf) <br> [Suppressive antibiotic therapy](suppressive.pdf) <br> [Managment of diabetic foot infections](diabeticfoot.pdf) <br> [History of abx treatment of osteo](osteohistory.pdf) <br>
 
 <br>
 
@@ -32,14 +26,12 @@ Video of lecture can be played below. Click on the "CC" button in the the video 
 
 **Podcasts on topics related to osteoarticuliar infections**
 
-The Socieity of Infectious Diseases Pharmacists (SIDP) has excellent podcasts on topics related to managing bone and joint infections with many physician experts:
-<br>
+The Society of Infectious Diseases Pharmacists (SIDP) has excellent podcasts on topics related to managing bone and joint infections with many physician experts: <br>
 
 [Antibiofilm approaches](https://breakpoints-sidp.org/110-a-bone-to-pick-biofilm-busters-for-prosthetic-joint-infections/)
 
 [Rifampin dosing in osteo](https://breakpoints-sidp.org/dosing-consult-rifampin-part-2/)
 
 [Prosthetic joint infections](https://breakpoints-sidp.org/67-nixing-the-nidus-managing-retained-sources-in-prosthetic-joint-infections/)
-
 
 <br>
