@@ -2,4 +2,18 @@
 title: "Febrile neutropenia"
 ---
 
-*Coming soon*
+Recorded lecture:
+
+<br>
+
+Further reading: <br>
+
+[Recent review on febrile neutropenia](Douglas.pdf) <br> [How Long Study](Guisado.pdf) <br> [NCCN Infection Treatment Guidleines () Guidelines](nccn_infection.pdf)
+
+Slides:
+
+<br>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmsKNi4G4VZkJ6bIAVQFWIFd80GtgxJLa1Usg3Uau2DXjDWreKXBrYlG4tjUmY-KRWffr1zwCEhUR8/pubembed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+
+</iframe>
